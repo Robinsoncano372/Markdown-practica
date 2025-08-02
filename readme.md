@@ -23,15 +23,16 @@ Los condicionales Switch, son una estructura de control condicional, que permite
  1.   int opcion = 0;
  1.  cin >> opcion;
 1.
-  1.  switch(opcion)
-  1.  {
-   1.     case 1: cout << "Usted ha seleccionado la opción 1";
-    1.    break;
-    1.    case 2: cout << "Usted ha seleccionado la opción 2";
-    1.    break;
-     1.   case 3: cout << "Usted ha seleccionado la opción 3";
-     1.   break;
-     1.   default: cout << "Usted ha ingresado una opción incorrecta";
-   1. }
-   1. // system("PAUSE"); //Solo ponla si no te da error
+1.  switch(opcion)
+1.  {
+1.     case 1: cout << "Usted ha seleccionado la opción 1";
+1.    break;
+1.    case 2: cout << "Usted ha seleccionado la opción 2";
+1.    break;
+1.   case 3: cout << "Usted ha seleccionado la opción 3";
+1.   break;
+1.   default: cout << "Usted ha ingresado una opción incorrecta";
+1. }
+1. // system("PAUSE"); //Solo ponla si no te da error
+
 

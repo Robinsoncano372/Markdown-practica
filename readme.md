@@ -1,4 +1,5 @@
-## Ejemplos para usar If - Else en C++
+## Funciones en C++
+### Ejemplos para usar If - Else en C++
 ### Definición
 
 Los condicionales if-else (Si-Sino), son una estructura de control, que nos permiten determinar que acciones tomar dada o no cierta condición, por ejemplo determinar si la contraseña ingresada por el usuario es válida o no y de acuerdo a esto darle acceso al sistema o mostrar un mensaje de error.
@@ -14,7 +15,7 @@ Los condicionales if-else (Si-Sino), son una estructura de control, que nos perm
 1. {
 1.   cout << "Contrasenia incorrecta.";
 
-##Ejemplos para usar Multiple Switch en C++
+###Ejemplos para usar Multiple Switch en C++
 ###Definición
 
 Los condicionales Switch, son una estructura de control condicional, que permite definir múltiples casos que puede llegar a cumplir una variable cualquiera, y qué acción tomar en cualquiera de estas situaciones, incluso es posible determinar qué acción llevar a cabo en caso de no cumplir ninguna de las condiciones dadas.
@@ -34,6 +35,7 @@ Los condicionales Switch, son una estructura de control condicional, que permite
 1.   default: cout << "Usted ha ingresado una opción incorrecta";
 1. }
 1. // system("PAUSE"); //Solo ponla si no te da error
+
 
 
 
